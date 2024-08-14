@@ -5,3 +5,4 @@
 TODO:
 1. 蒐集更多ECG資料，來驗證濾波功能
 2. 調整細節參數，提升效果
+![ECG](https://github.com/user-attachments/assets/20f952ac-653b-48cd-aed0-aa00db519306)
